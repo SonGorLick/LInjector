@@ -15,3 +15,4 @@
 - Next, open it with Visual Studio (From Windows 10/11).
 - Compile the solution / project.
 - Move `/libs folder to /LInjector/x64/Debug/..` (The folder must include the `injector.dll` file) 
+- Your _scripts_ folder must not contain _space_ strings. I mean; NOT: '_C:\Users\noobmaster69\My Scripts_'. YES: '_C:\Users\noobmaster69\MyScripts_'.
